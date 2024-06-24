@@ -1,0 +1,250 @@
+  751  mongosh "mongodb+srv://offbrand.ut3b7.mongodb.net/" --apiVersion 1 --username route66
+  752  git pull
+  753  cd medium
+  754  ls
+  755  cd longestSubstring_ltc_04
+  756  go run main.go
+  757  ls
+  758  cd apps/offbrand-vehicles/
+  759  ls
+  760  cd backend/src
+  761  ls
+  762  sh bin/awsLogin.sh
+  763  ls
+  764  pwd
+  765  pnpm run seed
+  766  pnpm run seed
+  767  pnpm run seed
+  768  pnpm -v
+  769  git merge main
+  770  git merge master
+  771  sh ./node/tests/utils/bin/awsLogin.sh
+  772  pnpm run synth
+  773  pnpm run synth dev
+  774  ls
+  775  pwd
+  776  cd node/
+  777  ls
+  778  cd ..
+  779  ls
+  780  ls
+  781  cd ..
+  782  ls
+  783  pnpm run synth
+  784  pnpm run synth dev
+  785  pnpm run deploy dev
+  786  git merge master
+  787  pnpm run synth dev
+  788  pnpm run deploy dev
+  789  pnpm run deploy dev
+  790  ls
+  791  cd apps/offbrand-vehicles/frontend
+  792  ls
+  793  pnpm run test:post-deploy
+  794  pnpm run cypress:open
+  795  pnpm run test:e2e:smoke
+  796  pnpm run test:integration:smoke
+  797  pnpm run test:integration
+  798  pnpm run cypress:open
+  799  pnpm run cypress:open
+  800  pnpm run test:integration
+  801  pnpm run cypress:open
+  802  pnpm run test:integration
+  803  pnpm run test:integration
+  804  pnpm run test:prepare-post-deploy
+  805  pnpm run test:prepare-post-deploy
+  806  pnpm run test:prepare-post-deploy
+  807  pnpm run test:prepare-post-deploy
+  808  pnpm i -g pnpm
+  809  npm i -g pnpm
+  810  pnpm run test:prepare-post-deploy
+  811  pnpm run test:post-deploy
+  812  pnpm run test:post-deploy
+  813  pnpm run test:post-deploy
+  814  pnpm run test:e2e
+  815  pnpm run cypress:open
+  816  pnpm run cypress:open
+  817  pnpm run cypress:open
+  818  pnpm run test:e2e
+  819  pnpm run test:e2e
+  820  pnpm run cypress:open
+  821  pnpm run lint
+  822  pnpm run test:install
+  823  pnpm run test:install
+  824  git push
+  825  pnpm run test:install
+  826  ls
+  827  npm run dev
+  828  npm run dev
+  829  sh ../../offbrand-vehicles/backend/src/node/tests/utils/bin/awsLogin.sh
+  830  npm run dev
+  831  npm run synth
+  832  npm run synth dev
+  833  npm run synth dev
+  834  npm run synth dev
+  835  npm run deploy dev
+  836  npm run deploy:env dev
+  837  pnpm set:env dev
+  838  npm run deploy:env dev
+  839  pnpm i
+  840  pnpm build..
+  841  pnpm build...
+  842  pnpm run build...
+  843  pnpm run build
+  844  npm run deploy:env dev dev
+  845  pnpm run synth
+  846  pnpm run synth dev
+  847  pnpm run deploy dev
+  848  pnpm run deploy dev dev
+  849  pnpm run deploy pp pp
+  850  pnpm run deploy dev dev
+  851  git master
+  852  git checkout master
+  853  git pull
+  854  pnpm run deploy pp pp
+  855  ls
+  856  sh ./node/tests/utils/bin/awsLogin.sh
+  857  ls
+  858  cd src
+  859  ls
+  860  cd node
+  861  ls
+  862  sh tests/utils/bin/awsLogin.sh
+  863  pnpm run test:post-deploy
+  864  pnpm run test:post-deploy
+  865  pnpm run test:e2e
+  866  pnpm run test:integration
+  867  pnpm run test:post-deploy
+  868  pnpm run test:integration
+  869  pnpm run test:e2e
+  870  pnpm run test:integration
+  871  pnpm run test:integration
+  872  pnpm run test:post-deploy
+  873  pnpm run lint
+  874  pnpm run lint:fix
+  875  pnpm run test:pr
+  876  git merge master
+  877  pnpm run lint
+  878  pnpm run lint
+  879  pnpm run test:pr
+  880  ls
+  881  git checkout master
+  882  cd ..
+  883  ls
+  884  cd ..
+  885  ls
+  886  cd ..
+  887  ls
+  888  cd bff
+  889  pnpm run synth pp
+  890  pnpm run deploy pp
+  891  sh ../backend/src/node/tests/utils/bin/awsLogin.sh
+  892  pnpm run deploy pp
+  893  cypress install -y;
+  894  pnpm run test:install
+  895  cd ..
+  896  ls
+  897  ls
+  898  cd backend
+  899  ls
+  900  ls
+  901  cd ..
+  902  ls
+  903  cd backend
+  904  ls
+  905  pnpm run test:install
+  906  cd ..
+  907  cd frontend
+  908  la
+  909  ls
+  910  pnpm run diff dev
+  911  pnpm run diff dev dev
+  912  pwd
+  913  pnpm run deploy:dev
+  914  git merge master
+  915  ls
+  916  cd apps/offbrand-vehicles
+  917  ls
+  918  cd backend
+  919  ls
+  920  cd ..
+  921  ls
+  922  sh backend/src/node/tests/utils/bin/awsLogin.sh
+  923  sh backend/src/node/tests/utils/bin/awsLogin.sh
+  924  ls
+  925  cd backend
+  926  ls
+  927  pnpm run synth
+  928  pnpm run synth dev
+  929  pnpm run deploy dev
+  930  pnpm run deploy dev
+  931  pnpm run deploy dev
+  932  pnpm run deploy dev
+  933  pnpm run deploy dev
+  934  pnpm run deploy dev
+  935  pnpm run deploy dev
+  936  pnpm run deploy dev
+  937  pnpm run deploy dev
+  938  pnpm run deploy dev
+  939  pnpm run deploy dev
+  940  pnpm run deploy dev
+  941  pnpm run deploy dev
+  942  pnpm run deploy dev
+  943  pnpm run lin:fix
+  944  pnpm run eslint:fix
+  945  pnpm run lint:fix
+  946  ls
+  947  pwd
+  948  pnpm run seed
+  949  kubectl version
+  950  kubectl --version
+  951  kubectl version --client=true -o yaml
+  952  ls
+  953  kubectl describe endpointslices
+  954  kubectl describe endpointslices
+  955  kubectl describe endpointslices
+  956  kubectl get endpointslices
+  957  ls
+  958  cd Documents/GitHub/TheK8sBook
+  959  ls
+  960  ls
+  961  cd ingress
+  962  kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v1.9.4/deploy/static/provider/cloud/deploy.yaml
+  963  kubectl get pods
+  964  kubectl get deploys
+  965  kubectl get deploy
+  966  kubectl get deploy
+  967  kubectl get pods -n ingress-ngix \
+  968  kubectl get pods -n ingress-ngix \\n-l app.kubernetes.io/name=ingress-nginx
+  969  kubectl get pods -n ingress-ngix -l app.kubernetes.io/name=ingress-nginx
+  970  kubectl get pods -n ingress-nginx \\n-l app.kubernetes.io/name=ingress-nginx
+  971  kubectl get ingressclass
+  972  kubectl get ingressclass -w
+  973  kubectl get ingressclass -o
+  974  kubectl get ingressclass -ide
+  975  kubectl get ingressclass -wide
+  976  kubectl get ingressclass --wide
+  977  kubectl get ingressclass --help
+  978  kubectl get ingressclass -o wide
+  979  kubectl describe ingressclass nginx
+  980  kubectl -f app.yml 
+  981  kubectl apply -f app.yml 
+  982  kubectl get pods
+  983  kubectl get pods
+  984  kubectl get pods
+  985  kubectl get pods
+  986  kubectl get pods
+  987  kubectl get pods
+  988  kubectl get pods
+  989  kubectl get pods
+  990  kubectl get pods
+  991  kubectl get pods
+  992  kubectl get pods
+  993  kubectl get pods =w
+  994  kubectl get pods -w
+  995  kubectl apply -f ig-all.yml
+  996  kubectl get pods -w
+  997  kubectl get ing
+  998  kubectl apply -f ig-all.yml
+  999  get ing
+ 1000  kubectl get ing
